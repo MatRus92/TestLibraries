@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5dc97720-6913-4e2a-afe8-063e044b69da": {
+      "ProjectGuid": "5dc97720-6913-4e2a-afe8-063e044b69da",
+      "DisplayName": "MediatR",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
