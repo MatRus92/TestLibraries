@@ -1,4 +1,6 @@
-﻿namespace MediatR_TEST.Model
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace MediatR_TEST.Model
 {
     public class CreateCustomerModel
     {
